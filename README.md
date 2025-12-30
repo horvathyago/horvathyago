@@ -22,6 +22,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="cakephp" src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
   <!-- Banco de Dados -->
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -34,4 +35,3 @@
 </div><br/>
 
 💻 Buscar o crescimento contínuo e aplicar as tecnologias mais recentes para inovar e construir produtos de software que definam o futuro do setor.
-
