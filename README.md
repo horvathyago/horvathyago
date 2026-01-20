@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/website?label=LinkedIn%20-%20Yago%20Horvath&style=for-the-badge&url=https://www.linkedin.com/in/yago-horvath-aab451305/)](https://www.linkedin.com/in/yago-horvath-aab451305/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yago.horvath)
 
 ## Tecnologias que eu uso no meu dia
 
